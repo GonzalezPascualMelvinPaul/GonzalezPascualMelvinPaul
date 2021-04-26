@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <code><img height="40" src="https://user-images.githubusercontent.com/45563022/88325432-bb2c4e00-cd42-11ea-97fa-a55a208ddf0e.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/45563022/88325472-c97a6a00-cd42-11ea-89c8-6c078086fa77.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/45563022/88325506-d6975900-cd42-11ea-887e-9e4e2db231be.png"></code>
--->
+
 **GitHub Stats**
 <br />
 <br />
@@ -31,3 +31,4 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/melvindragneel1">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritesh-sharma33&theme=onedark" alt="Ritesh's github stats"/></a>
+-->
