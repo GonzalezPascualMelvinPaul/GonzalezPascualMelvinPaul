@@ -1,8 +1,7 @@
 ### Hi there, I am Melvin 👋
 
-
-<br />
-
+<a href="https://twitter.com/Melvincitooo"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a> <a href="https://github.com/melvindragneel1"><img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a> <a href="https://www.instagram.com/melvincitooo/"><img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a> <a href="https://studio.youtube.com/channel/UCihA6m6-Lf0i4x_inO4SQ5Q/videos"><img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+<br/>
 Here are some ideas to get you started:
 <!--
 - 👨‍💻 I passionately write technical blogs on [Medium](https://medium.com/@sharmaritesh3312).
