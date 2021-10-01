@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 **GitHub Stats**
 <br />
 <br />
-<a href="https://github.com/melvindragneel1">
+<a href="https://github.com/GonzalezPascualMelvinPaul">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvindragneel1&hide=jupyter%20notebook&show_icons=true&theme=radical" alt="Melvin github stats"/></a>
 
-<a href="https://github.com/melvindragneel1">
+<a href="https://github.com/GonzalezPascualMelvinPaul">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=melvindragneel1&theme=onedark" alt="Melvin github stats"/></a>
 
