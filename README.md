@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 <a href="https://github.com/GonzalezPascualMelvinPaul">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvindragneel1&hide=jupyter%20notebook&show_icons=true&theme=radical" alt="Melvin github stats"/></a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzalezPascualMelvinPaul&hide=jupyter%20notebook&show_icons=true&theme=radical" alt="Melvin github stats"/></a>
 
 <a href="https://github.com/GonzalezPascualMelvinPaul">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=melvindragneel1&theme=onedark" alt="Melvin github stats"/></a>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=GonzalezPascualMelvinPaul&theme=onedark" alt="Melvin github stats"/></a>
 
